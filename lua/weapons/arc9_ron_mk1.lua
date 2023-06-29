@@ -201,7 +201,7 @@ SWEP.AnimDraw				= false
 
 SWEP.MuzzleParticle			= "muzzleflash_1" -- Used for some muzzle effects.
 
-SWEP.ShellModel				= "models/weapons/arccw/uc_shells/9x19.mdl"
+SWEP.ShellModel = "models/weapons/arc9_eft_shared/shells/eft_shell_556_m855.mdl"
 SWEP.ShellCorrectAng		= Angle(0, 180, 0)
 SWEP.ShellScale				= 1
 SWEP.ShellPhysBox			= Vector(0.5, 0.5, 2)

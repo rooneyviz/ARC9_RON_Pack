@@ -38,7 +38,7 @@ SWEP.Crosshair				= true
 SWEP.MirrorVMWM				= true
 SWEP.WorldModelOffset = {
 	Pos				= Vector(-8, 2, -6),
-	Ang				= Angle(-5, 0, 180),
+	Ang				= Angle(0, 0, 180),
 	Scale				= 1
 }
 

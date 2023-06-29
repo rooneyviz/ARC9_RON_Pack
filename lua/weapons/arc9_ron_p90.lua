@@ -204,7 +204,7 @@ SWEP.AnimDraw				= false
 
 SWEP.MuzzleParticle			= "muzzleflash_1" -- Used for some muzzle effects.
 
-SWEP.ShellModel				= "models/weapons/arccw/uc_shells/9x19.mdl"
+SWEP.ShellModel = "models/weapons/arc9/darsu_eft/shells/57x28.mdl"
 SWEP.ShellCorrectAng		= Angle(0, 180, 0)
 SWEP.ShellScale				= 1
 SWEP.ShellPhysBox			= Vector(0.5, 0.5, 2)
@@ -619,18 +619,6 @@ SWEP.Animations = {
 
 -------------------------- ATTACHMENTS
 
-SWEP.Attachments = {
-	{
-		PrintName						= "FINISH",
-		DefaultName						= "Weapon Finish",
-		DefaultCompactName				= "FINISH",
-		Category						= "ud_glock_skin",
-		Bone							= "glock_parent",
-		Pos								= Vector(0, 0, 0),
-		Ang								= Angle(0, 0, 0),
-		Icon_Offset						= Vector(0, 0, 4)
-	},
-}
 
 SWEP.Attachments = {
 	{
